@@ -1,0 +1,172 @@
+/* CHAT */
+
+/* New Chat Button */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0:nth-child(
+    2
+  )
+  > div.css-175oi2r:nth-child(2)
+  > div.css-175oi2r:nth-child(2)
+  > button.css-175oi2r.r-1loqt21.r-1otgn73:has(div) {
+  background-color: var(--primary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+/* New Chat Button Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0:nth-child(
+    2
+  )
+  > div.css-175oi2r:nth-child(2)
+  > div.css-175oi2r:nth-child(2)
+  > button.css-175oi2r.r-1loqt21.r-1otgn73:has(div):hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Emoji Icon In Chat */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > button.css-175oi2r.r-1loqt21.r-1otgn73
+  > div.css-175oi2r
+  > svg
+  > path {
+  fill: var(--primary-color) !important;
+}
+
+/* Send Message Button */
+
+html.theme--dim
+  body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(3)
+  div.css-175oi2r:only-child
+  div.css-175oi2r:only-child
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-child(3):nth-of-type(
+    2
+  ):last-of-type:has(svg:only-child) {
+  background-color: var(--primary-color) !important;
+}
+
+/* Message Box Focus Border */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(3)
+  div.css-175oi2r:only-child
+  div.css-175oi2r:focus-within {
+  border-color: var(--primary-color) !important;
+}
+
+/* Send Message Button PROBLEMA CONFLITO COM EMOJI ICON */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > button.css-175oi2r.r-1loqt21.r-1otgn73 {
+  background-color: var(--primary-color) !important;
+  border-color: var(--secondary-color) !important;
+} */
+
+/* Message Box Focus Border OK */
+/* 
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:focus-within {
+  border-color: var(--primary-color) !important;
+} */

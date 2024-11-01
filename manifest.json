@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "PinkSky",
+  "version": "1.0",
+
+  "description": "Makes BlueSky pink!",
+
+  "content_scripts": [
+    {
+      "matches": ["*://bsky.app/*"],
+      "js": ["./pinksky.js"],
+      "css": [
+        "./pinksky.css",
+        "./bskySearch.css",
+        "./bskyNotifications.css",
+        "./bskyChat.css",
+        "./bskyFeeds.css",
+        "./bskyLists.css",
+        "./bskyProfile.css",
+        "./bskySettings.css"
+      ]
+    }
+  ]
+}

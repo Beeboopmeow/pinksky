@@ -1,0 +1,1104 @@
+:root {
+  --primary-color: rgb(255, 109, 175);
+  --secondary-color: rgb(255, 152, 198);
+  --focus-color: rgba(255, 152, 198, 0.466);
+}
+
+/* New Post Button */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-c4unlt.r-pgf20v.r-1rnoaur.r-1xcajam.r-1ki14p2.r-1w88a7h
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73 {
+  background-color: var(--primary-color) !important;
+}
+
+/* New Post Button Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-c4unlt.r-pgf20v.r-1rnoaur.r-1xcajam.r-1ki14p2.r-1w88a7h
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Right Side Anchors */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-196lrry.r-pm9dpa.r-1rnoaur.r-1xcajam.r-1ipicw7
+  div.css-175oi2r
+  div.css-175oi2r.r-1la3zjv.r-3o4zer
+  div.css-175oi2r.r-18u37iz
+  a.css-146c3p1.r-1loqt21 {
+  color: var(--primary-color) !important;
+}
+
+/* @ */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  div.css-175oi2r.r-xoduu5
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+}
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  div.css-175oi2r.r-xoduu5
+  a.css-1jxf684.r-1loqt21:hover {
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Post Mention */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx
+  div.css-175oi2r
+  div.css-175oi2r.r-18u37iz.r-1h8ys4a
+  div.css-175oi2r.r-k200y.r-13awgt0.r-15d164r.r-1jkjb.r-1uu6nss
+  div
+  div.tiptap.ProseMirror.ProseMirror-dark
+  p
+  span.mention {
+  color: var(--primary-color) !important;
+}
+
+/* Post Button */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73:has(div) {
+  background-color: var(--primary-color) !important;
+}
+
+/* Post Button Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73:has(div):hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* SVG Shield Icon Fill */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73.r-1fuqb1j.r-1awozwy.r-18u37iz.r-1559e4e.r-18c5d7m.r-12c3ph5
+  svg
+  path {
+  fill: none !important;
+}
+
+/* SVG Shield Icon Fill Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73.r-1fuqb1j.r-1awozwy.r-18u37iz.r-1559e4e.r-18c5d7m
+  svg
+  path {
+  fill: none !important;
+}
+
+/* Cancel Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  button:nth-of-type(1)
+  div {
+  color: var(--primary-color) !important;
+}
+
+/* Cancel Post Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-of-type(1):hover {
+  background-color: var(--focus-color) !important;
+}
+
+/* Language Button in Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-ubg91z
+  div.css-146c3p1.r-1udh08x.r-1udbk01.r-3s2u2q.r-1iln25a {
+  color: var(--primary-color) !important;
+}
+
+/* More feeds */
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-196lrry.r-pm9dpa.r-1rnoaur.r-1xcajam.r-1ipicw7
+  div.css-175oi2r
+  div.css-175oi2r.r-qklmqi.r-5kkj8d.r-le4sbl.r-1444osr
+  div:nth-of-type(5)
+  a {
+  color: var(--primary-color) !important;
+}
+
+/* # */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  button#radix-.css-175oi2r.r-xoduu5.r-1loqt21.r-1otgn73
+  span.css-1jxf684,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  button
+  span,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx
+  div.css-175oi2r
+  div.css-175oi2r.r-18u37iz.r-1h8ys4a
+  div.css-175oi2r.r-k200y.r-13awgt0.r-15d164r.r-1jkjb.r-1uu6nss
+  div
+  div.tiptap.ProseMirror.ProseMirror-dark
+  p
+  span.autolink {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Content Icons Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(1)
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-child(1)
+  svg:only-child
+  path:only-child,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(1)
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-child(2)
+  svg:only-child
+  path:only-child,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(1)
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-child(3)
+  svg:only-child
+  path:only-child,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(1)
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-child(4)
+  svg:only-child
+  path:only-child {
+  fill: var(--primary-color) !important;
+}
+
+/* URL */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-eqz5dr.r-1pi2tsx.r-13g33dw
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  a.css-1jxf684.r-1loqt21,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* URL Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-eqz5dr.r-1pi2tsx.r-13g33dw
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x.r-l4nmg1
+  div.css-146c3p1
+  a.css-1jxf684.r-1loqt21:hover {
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Notification Circle */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-c4unlt.r-pgf20v.r-1rnoaur.r-1xcajam.r-1ki14p2.r-1w88a7h
+  a.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  div.css-146c3p1 {
+  background-color: var(--primary-color) !important;
+}
+
+/* Logo by */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-196lrry.r-pm9dpa.r-1rnoaur.r-1xcajam.r-1ipicw7
+  div.css-175oi2r
+  div.css-175oi2r.r-1la3zjv.r-3o4zer
+  div.css-146c3p1
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+}
+
+/* Feed notification */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  button.css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-wzwllv.r-kdyh1x.r-rs99b7.r-tbmifm.r-u8s1d.r-1w1br8q.r-14eup4l.r-16eto9q {
+  background-color: var(--primary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+/* Notif Mention */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r
+  div.css-175oi2r.r-q5xsgd.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  div.css-175oi2r.r-1otgn73.r-1loqt21.r-1inuy60.r-1hfyk0a.r-ry3cjt.r-m611by
+  div.css-175oi2r.r-18u37iz.r-uaa2di
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-zl2h9q
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-1w6e6rj.r-1udh08x
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  div.css-175oi2r.r-xoduu5
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Icon Background Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-of-type(1):has(svg):hover,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-of-type(2):has(svg):hover,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-of-type(3):has(svg):hover,
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73:nth-of-type(4):has(svg):hover {
+  background-color: var(--focus-color) !important;
+}
+
+/* Edit Post Privacy Icon */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  > svg:nth-of-type(2)
+  path {
+  fill: var(--primary-color) !important;
+}
+
+/* Comment Mention */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1loqt21
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-146c3p1
+  div.css-175oi2r.r-xoduu5
+  div.css-175oi2r.r-xoduu5
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Learn more */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1pi2tsx
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r.r-1loqt21.r-1hfyk0a.r-ry3cjt
+  div.css-175oi2r.r-18u37iz.r-uaa2di.r-1cvj4g8
+  div.css-175oi2r.r-13awgt0.r-bnwqim.r-417010
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  button.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-146c3p1
+  span.css-1jxf684 {
+  color: var(--primary-color) !important;
+}
+
+/* Translate */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-146c3p1.r-1loqt21 {
+  color: var(--primary-color) !important;
+}
+
+/* Wheel */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1niwhzg.r-1udh08x
+  svg
+  path:nth-of-type(1) {
+  stroke: var(--primary-color) !important;
+}
+
+/* Shield SVG Color */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73.r-1fuqb1j.r-1awozwy.r-18u37iz.r-1559e4e.r-18c5d7m.r-12c3ph5
+  svg
+  path {
+  stroke: var(--primary-color) !important;
+}
+
+/* Shield SVG Color Hover */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  div.css-175oi2r.r-18u37iz.r-1i71y14
+  button.css-175oi2r.r-1loqt21.r-1otgn73.r-1fuqb1j.r-1awozwy.r-18u37iz.r-1559e4e.r-18c5d7m.r-12c3ph5
+  svg
+  path:hover {
+  stroke: var(--focus-color) !important;
+}
+
+/* Shield SVG Color With Media */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-p1pxzi.r-d0c3f3.r-r8bmzb.r-1ye8kvj.r-1udh08x.r-1mkv55d.r-13qz1uu
+  div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r.r-1awozwy.r-18u37iz.r-9aw3ui.r-1sn7ly2.r-is05cd
+  > div.css-175oi2r.r-18u37iz.r-1i71y14
+  > button.css-175oi2r.r-1loqt21.r-1otgn73.r-1fuqb1j.r-1awozwy.r-18u37iz.r-1559e4e.r-18c5d7m
+  > svg
+  > path {
+  stroke: var(--primary-color) !important;
+}
+
+/* Done Content Warning Button */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r
+  div.css-175oi2r.r-1xfd6ze.r-rs99b7.r-rsyp9y.r-7h7f8p.r-dd0y9b.r-cxgwc0.r-33ulu8
+  div.css-175oi2r.r-13awgt0.r-1mdbw0j
+  div.css-175oi2r.r-u9wvl5.r-1knelpx
+  button.css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-1awozwy.r-wzwllv.r-nsiyw1.r-18u37iz.r-1777fci.r-1slz7xr {
+  background-color: var(--primary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+/* View Full Thread */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-2llsf
+  > div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-1pi2tsx
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r.r-1ljd8xs.r-13l2t4g.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  > div.css-175oi2r
+  > div:nth-child(2)
+  > div.css-175oi2r.r-1loqt21.r-1otgn73:only-child
+  > a.css-175oi2r.r-18u37iz.r-uaa2di.r-qi0n3:only-child
+  > div.css-146c3p1:nth-child(2) {
+  color: var(--primary-color) !important;
+}
+
+/* # In Focused Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-146c3p1.r-1xnzce8
+  div.css-175oi2r.r-xoduu5
+  button
+  span.css-1jxf684.r-1xnzce8 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* # In Thread Unfocused Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-13yce4e.r-1loqt21
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-child(2)
+  div.css-146c3p1:only-child
+  div.css-175oi2r.r-xoduu5:nth-child(2)
+  button
+  span.css-1jxf684 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* URL in Focused Post*/
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-146c3p1.r-1xnzce8
+  a.css-1jxf684.r-1xnzce8.r-1loqt21 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* URL in Thread Unfocused Post */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0.r-1d5kdc7.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu
+  div.css-175oi2r
+  div.css-175oi2r.r-1jj8364.r-lchren.r-1ye8kvj.r-13qz1uu.r-sa2ff0
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r.r-1loqt21
+  div.css-175oi2r.r-1loqt21.r-1otgn73
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-146c3p1
+  a.css-1jxf684.r-1loqt21 {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Bottom Border Feeds */
+
+/* Follow Button when hovering profile */
+
+/* URLS in hover profile */

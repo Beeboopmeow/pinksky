@@ -1,0 +1,136 @@
+/* PROFILE */
+
+/* Label Source URL */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r:nth-of-type(3)
+  div.css-175oi2r:only-child
+  a.css-146c3p1.r-1loqt21:nth-child(2):only-of-type {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Appeal Label URL */
+
+body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div
+  > div.css-175oi2r
+  > div.css-146c3p1
+  > a.css-1jxf684.r-1loqt21:only-child {
+  color: var(--primary-color) !important;
+  text-decoration-color: var(--primary-color) !important;
+}
+
+/* Appeal Label Text Box */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r:nth-child(4)
+  div.css-175oi2r:nth-child(2)
+  div.css-175oi2r:only-child
+  div:only-child
+  div.css-175oi2r:nth-of-type(2)
+  div.css-175oi2r:focus-within:only-of-type
+  div.css-175oi2r:only-of-type {
+  border-color: var(--primary-color) !important;
+} */
+
+/* Appeal Label Submit Button */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-2llsf.r-kemksi
+  > div.css-175oi2r
+  > div.css-175oi2r:nth-child(2):last-of-type
+  > div.css-175oi2r:only-child
+  > div:only-child
+  > div.css-175oi2r:nth-child(3)
+  > button:nth-child(2):nth-of-type(2):last-of-type:has(div:only-child) {
+  background-color: var(--primary-color) !important;
+} */
+
+/* Appeal Label Submit Button Hover */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  > div.css-175oi2r.r-2llsf.r-kemksi
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div.css-175oi2r
+  > div
+  > div.css-175oi2r:nth-child(3)
+  > button:nth-child(2):last-of-type:has(div:only-child):hover {
+  background-color: var(--secondary-color) !important;
+} */
+
+/* Cancel Discard Draft Original Background Color */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div
+  div[id=":r26g:"]
+  ~ div:last-of-type
+  button:nth-child(2) {
+  background-color: blue !important;
+} */
+
+/* Cancel Discard Draft Original Hover Background Color */
+
+/* body
+  div#root
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r.r-13awgt0.r-12vffkv
+  div.css-175oi2r
+  div.css-175oi2r.r-13awgt0
+  div.css-175oi2r.r-2llsf.r-kemksi
+  div.css-175oi2r
+  div.css-175oi2r
+  div.css-175oi2r
+  div
+  div[id=":r26g:"]
+  ~ div:last-of-type
+  button:nth-child(2):hover {
+  background-color: rgb(38, 53, 68) !important;
+} */
